@@ -1,0 +1,17 @@
+.site-tags {
+  @extend %site-el;
+  @extend %padding-regular;
+
+  p {
+    @extend .meta;
+  }
+
+  span {
+    color: $text-color-light;
+    &:not(:last-child):after {
+      content: "|";
+      padding-left: 0.25em;
+    }
+  }
+
+}

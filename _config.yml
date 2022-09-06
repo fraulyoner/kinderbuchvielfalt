@@ -1,0 +1,49 @@
+# SITE CONFIGURATION
+url: "https://www.kinderbuchvielfalt.de"
+
+# THEME-SPECIFIC CONFIGURATION
+theme_settings:
+  # Meta
+  title: kinderbuchvielfalt.de | Kinderbücher für mehr Vielfalt und weniger Stereotype
+  title_short: kinderbuchvielfalt.de
+  favicon: assets/favicon.ico
+  description: "Der Blog für Kinderbücher für mehr Vielfalt und weniger Stereotype" #used by search engines
+  image: "assets/img/logo.jpg"
+
+  # Header text
+  header_text:
+  header_text_feature_image: #"assets/img/xy.jpg"
+
+  # Icons
+  rss: true
+  email_address: hallo@fraulyoner.de
+  instagram: "https://instagram.com/fraulyoner"
+  homepage: "https://fraulyoner.de/"
+
+  # Search feature
+  search: true
+
+  # Post navigation
+  post_navigation: false
+
+  # Related posts
+  related_posts: true
+  related_posts_max: 3
+  related_posts_minCommon: 1
+
+# PAGINATION
+paginate: 3
+paginate_path: "blog/page:num"
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: :compressed
+plugins: [jekyll-paginate, jekyll-sitemap, jekyll-redirect-from]
+remote_theme: rohanchandra/type-theme
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/

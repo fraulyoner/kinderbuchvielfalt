@@ -1,0 +1,25 @@
+.site-footer {
+  @extend %padding-regular;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  color: $text-color-light;
+  font-size: 0.9em;
+
+  ul {
+  padding: 0;
+  list-style: none;
+  line-height: 1.5;
+
+  li {
+    display: inline-block;
+  }
+  }
+
+  @media (min-width: $device-xs) {
+    .trusted-blogs {
+      width: 30%;
+    }
+  }
+
+}

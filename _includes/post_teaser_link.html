@@ -1,0 +1,7 @@
+{% for post in site.tags[ include.name ] %}
+  {% if post.title != null %}
+  <a class="post-link" href="{{ post.url | relative_url }}">
+    {{ post.title }}
+  </a>
+  {% endif %}
+{% endfor %}

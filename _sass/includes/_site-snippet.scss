@@ -1,0 +1,28 @@
+.site-snippet {
+  @extend %site-el;
+  @extend %padding-regular;
+
+  p.meta {
+    @extend .meta;
+  }
+
+  ul {
+  font-size: 0.9em;
+  margin: 0.5em 0 0 0;
+  padding: 0;
+  list-style: none;
+  line-height: 1.5;
+
+  li {
+    display: inline-block;
+    a {
+      &:hover {
+        text-decoration: none;
+        span {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  }
+}

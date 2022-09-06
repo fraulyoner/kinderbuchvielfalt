@@ -1,0 +1,24 @@
+.site-description {
+  @extend %site-el;
+  @extend %padding-regular;
+  text-align: center;
+
+  > p {
+    margin: 0;
+    text-align: left;
+  }
+
+  > img {
+    border-radius: 50%;
+    height: auto;
+    margin-bottom: 1em;
+    max-width: 100%;
+    width: 150px;
+
+    @media (min-width: $device-sm) {
+      float: left;
+      margin: 0;
+      margin-right: 2em;
+    }
+  }
+}

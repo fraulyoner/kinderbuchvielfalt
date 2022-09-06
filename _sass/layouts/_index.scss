@@ -1,0 +1,60 @@
+// Header text feature
+.call-out {
+  @extend %padding-regular;
+  display: inline-block;
+  width: 100%;
+  background-color:$header-desc-background-color;
+  background-size: cover;
+  font-size: 1.2em;
+  text-align: center;
+  color: $header-desc-text-color;
+}
+.call-out p:last-child {
+  margin-bottom: 0;
+}
+.call-out a {
+  color: $header-desc-link-color
+}
+// Post listing
+.posts {
+  .post-teaser {
+    @extend %padding-regular;
+    width: 100%;
+    margin-bottom: 0;
+    display: inline-block;
+    background-size: $feature-image-size;
+    border-bottom: 1px solid $border-color;
+    p a {
+      @extend .body-link;
+    }
+  }
+  .excerpt {
+    margin-top: 1em;
+  }
+  .title {
+    @extend %padding-regular;
+    padding-bottom: 0;
+  }
+}
+// Pagination
+.pagination {
+  @extend %site-el;
+  @extend %padding-regular;
+
+  a {
+    display: inline-block;
+    padding: 0;
+  }
+
+  a.pagination-newer {
+    float: left;
+  }
+
+  a.pagination-older {
+    float: right;
+  }
+
+  i {
+    vertical-align: 0.015em;
+  }
+}

@@ -1,0 +1,19 @@
+.tag-title {
+  @extend .meta;
+  font-size: 1.5em;
+  margin-top: 1em;
+}
+.tagged-post {
+  .title {
+    font-size: 1.25em;
+    margin-top: 0.5em;
+    margin-bottom: 0;
+
+    a:hover {
+      color: $text-color;
+    }
+  }
+}
+.tag-img {
+  margin-top: 1em;
+}

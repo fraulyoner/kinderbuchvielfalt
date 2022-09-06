@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="posts">
+  <div class="post-teaser">
+    <p class="sticky">
+      {{ site.tags[ page.title ].size }} Ergebnisse zum Thema: {{ page.title }}
+    </p>
+  </div>
+{% for post in site.tags[ page.title ] %}
+  {% if post.title != null %}
+  {% include post_teaser.html post=post %}
+  {% endif %}
+{% endfor %}
+</div>

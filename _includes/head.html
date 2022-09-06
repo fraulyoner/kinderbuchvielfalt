@@ -1,0 +1,28 @@
+<head>
+	<meta charset="utf-8">
+	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
+	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	{% if page.robots %}
+	<meta name="robots" content="{{page.robots}}" />
+	{% endif %}
+	{% include twitter_card.html %}
+
+	<!-- CSS -->
+	<link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+
+	<!--Favicon-->
+	<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.theme_settings.favicon }}" type="image/x-icon">
+
+	<!-- Canonical -->
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url }}">
+
+	<!-- RSS -->
+	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url }}" />
+
+	<!-- Font Awesome -->
+	<link href="{{ site.baseurl }}/assets/fonts/font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+	<!-- Fonts -->
+	<link href="{{ "/assets/css/fonts.css" | relative_url }}" rel="stylesheet" type="text/css">
+</head>

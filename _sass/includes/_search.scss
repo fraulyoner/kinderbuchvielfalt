@@ -1,0 +1,36 @@
+/* --- Search form --- */
+form.search {
+    border: 0;
+    border-bottom: 2px solid $search-color;
+    display: inline;
+    outline: 0;
+
+    *:focus {
+        outline: none;
+    }
+
+    input{
+        &[type=text] {
+            box-sizing: border-box;
+            border: 0;
+            outline: 0;
+            color: $search-color;
+        }
+
+        &::-moz-placeholder {
+            color: $search-color;
+            opacity: 1;
+        }
+
+        &:-ms-input-placeholder, &::-webkit-input-placeholder {
+            color: $search-color;
+        }
+    }
+
+    button {
+       border: none;
+       font-size: 0.9em;
+       background-color: $brand-color;
+       color: $search-color;
+    }
+}

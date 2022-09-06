@@ -1,0 +1,32 @@
+<ul>
+	{% if site.theme_settings.rss %}
+	<li>
+			<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">
+					<span class="fa-stack fa-lg">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+					</span>
+			</a>
+	</li>
+	{% endif %}
+	{% if site.theme_settings.instagram %}
+	<li>
+		<a href="{{ site.theme_settings.instagram }}" title="Folge mir auf Instagram" target="_blank">
+			<span class="fa-stack fa-lg">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+					</span>
+		</a>
+	</li>
+	{% endif %}
+	{% if site.theme_settings.email_address %}
+	<li>
+		<a class="type" href="mailto:{{ site.theme_settings.email_address }}" title="Schreib mir eine E-Mail" target="_blank">
+					<span class="fa-stack fa-lg">
+							<i class="fa fa-circle fa-stack-2x"></i>
+							<i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
+					</span>
+		</a>
+	</li>
+	{% endif %}
+</ul>

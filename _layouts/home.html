@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="home">
+  {% if site.theme_settings.header_text %}
+  <div class="call-out"
+  style="background-image: url('{{ site.baseurl }}/{{ site.theme_settings.header_text_feature_image }}')">
+    {{ site.theme_settings.header_text }}
+  </div>
+  {% endif %}
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+    {% include post_teaser.html post=post %}
+    {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a class="pagination-newer" href="{{ paginator.previous_page_path | relative_url | replace: '//', '/' }}">
+      <i class="fa fa-angle-left"></i>
+      Neuere Posts
+    </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a class="pagination-older" href="{{ paginator.next_page_path | relative_url | replace: '//', '/' }}">
+      Ältere Posts
+      <i class="fa fa-angle-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
