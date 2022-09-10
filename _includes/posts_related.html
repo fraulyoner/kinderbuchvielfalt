@@ -37,7 +37,16 @@
 
 {% if maxRelatedCounter == 0 %}
 {% for post in site.related_posts %}
-<li>&ndash; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% if post.image %}
+    <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">
+            <img src="{{ site.url }}{{ site.baseurl }}/assets/img/posts/{{ post.image }}"/>
+            {{ post.title }}
+        </a>
+    </li>
+    {% else %}
+    <li>&ndash; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
 {% if maxRelatedCounter >= site.theme_settings.related_posts_max %}
     {% break %}
