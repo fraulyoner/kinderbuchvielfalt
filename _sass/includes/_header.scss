@@ -3,6 +3,7 @@
   .site-logo {
     @extend %site-el;
     @extend %padding-regular;
+    padding-top: 0;
     display: inline-block;
   }
 
@@ -33,46 +34,29 @@
   .site-nav {
     @extend %site-el;
     @extend %padding-regular;
+    padding-bottom: 0;
+    border: 0;
     display: inline-block;
     width: 100%;
     overflow: hidden;
     position: relative;
 
-    #nav-links {
-      display: none;
-    }
-
-    .icon {
-      display: block;
-      position: absolute;
-      right: 0;
-      top: 0;
-      font-size: 110%;
-      padding: 1.5%;
-
-      @media (max-width: $device-sm) {
-        padding: 3.5%;
-      }
-
-      @media (max-width: $device-xs) {
-        padding: 2.5%;
-      }
-
-      @media (max-width: $device-xxs) {
-        padding: 1.5%;
-      }
-    }
-
     ul {
       margin: 0;
       padding: 0;
       list-style: none;
-      line-height: 1.5;
       display: inline-block;
+      font-size: 80%;
+
+      li:not(:first-child):before {
+        content: "|";
+        padding-left: 0.4em;
+        padding-right: 0.4em;
+      }
 
       li, a {
         text-decoration: none;
-        display: block;
+        display: inline-block;
 
         &:hover {
           color: $link-color-hover;

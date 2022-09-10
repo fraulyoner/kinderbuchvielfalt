@@ -2,29 +2,16 @@
 	<div class="site-nav">
 		<ul id="nav-links">
 			<li>
-				<a href="#news">News</a>
+				<a href="/">Home</a>
 			</li>
 			<li>
-				<a href="#contact">Contact</a>
+				<a href="mailto:{{ site.theme_settings.email_address }}">Kontakt</a>
 			</li>
 			<li>
-				<a href="#about">About</a>
+				<a href="/about">About</a>
 			</li>
 		</ul>
-		<a href="javascript:void(0);" class="icon" onclick="myFunction()">
-			<i class="fa fa-bars"></i>
-		</a>
 	</div>
-	<script>
-		function myFunction() {
-			var x = document.getElementById("nav-links");
-			if (x.style.display === "block") {
-				x.style.display = "none";
-			} else {
-				x.style.display = "block";
-			}
-		}
-	</script>
 	<div class="site-logo">
 		<div class="branding">
 			<h1 class="site-title">
