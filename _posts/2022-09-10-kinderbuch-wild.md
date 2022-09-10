@@ -62,7 +62,7 @@ sei die erste Form der Diskriminierung, die Kinder erleben. Das ungleiche
 Machtverhältnis zwischen Erwachsenen und Kindern sorgt oft dafür, dass Meinungen
 und Ansichten von Kindern übergangen werden, da die Erwachsenen vermeintlich
 kompetenter für die Kinder entscheiden können als die Kinder selbst.
-Adultismus kann dazu führen, dass Kinder Machtgefälle von Anfang als *normal*
+Adultismus kann dazu führen, dass Kinder Machtgefälle von Anfang an als *normal*
 erleben – und somit eventuell auch andere Formen von Diskriminierung als
 *natürlich* einstufen.
 

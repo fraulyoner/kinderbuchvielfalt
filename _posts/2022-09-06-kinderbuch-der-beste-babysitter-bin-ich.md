@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Johanna von Horn – Der beste Babysitter bin ich!
-permalink: /kinderbuch-der-beste-babysitter-bin-ich
+permalink: /kinderbuch-der-beste-babysitter-bin-ich-johanna-von-horn
 tags:
 - Ab 5 Jahre
 - Regenbogenfamilie
