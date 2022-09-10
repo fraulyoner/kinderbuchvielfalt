@@ -1,6 +1,6 @@
 .site-header {
 
-  .site-logo, .site-nav {
+  .site-logo {
     @extend %site-el;
     @extend %padding-regular;
     display: inline-block;
@@ -9,8 +9,6 @@
   .logo {
     margin-left: auto;
     margin-right: auto;
-    // TODO: Remove?
-    //text-align: center;
     width: 150px;
     height: 150px;
     display: block;
@@ -30,12 +28,40 @@
     font-size: 1.75em;
     line-height: 1.5;
     margin: 0;
-    // TODO: Remove?
-    //text-align: center;
   }
 
   .site-nav {
+    @extend %site-el;
+    @extend %padding-regular;
+    display: inline-block;
     width: 100%;
+    overflow: hidden;
+    position: relative;
+
+    #nav-links {
+      display: none;
+    }
+
+    .icon {
+      display: block;
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: 110%;
+      padding: 1.5%;
+
+      @media (max-width: $device-sm) {
+        padding: 3.5%;
+      }
+
+      @media (max-width: $device-xs) {
+        padding: 2.5%;
+      }
+
+      @media (max-width: $device-xxs) {
+        padding: 1.5%;
+      }
+    }
 
     ul {
       margin: 0;
@@ -45,54 +71,12 @@
       display: inline-block;
 
       li, a {
-        display: inline;
-      }
+        text-decoration: none;
+        display: block;
 
-      &.site-nav-left {
-        li:not(:first-child):before {
-          content: "|";
-          padding-left: 0.4em;
-          padding-right: 0.4em;
+        &:hover {
+          color: $link-color-hover;
         }
-      }
-
-      &.site-nav-right {
-        float: right;
-        li {
-          margin-right: 0.4em;
-
-          a:hover {
-            text-decoration: none;
-          }
-        }
-      }
-    }
-
-    @media (max-width: $device-xs) {
-      ul.site-nav-left {
-        display: inline-block;
-        float: none;
-        width: 100%;
-        li, a {
-          float: none;
-        }
-        li:not(:first-child):before {
-          padding-left: 0.1em;
-          padding-right: 0.1em;
-        }
-      }
-      ul.site-nav-right {
-        display: none;
-      }
-    }
-
-    @media (max-width: $device-xxs) {
-      ul.site-nav-left {
-        // TODO: Remove?
-        //text-align: center;
-      }
-      ul.site-nav-left .site-nav-search {
-        display: none;
       }
     }
   }

@@ -1,9 +1,31 @@
 <header class="site-header">
+	<div class="site-nav">
+		<ul id="nav-links">
+			<li>
+				<a href="#news">News</a>
+			</li>
+			<li>
+				<a href="#contact">Contact</a>
+			</li>
+			<li>
+				<a href="#about">About</a>
+			</li>
+		</ul>
+		<a href="javascript:void(0);" class="icon" onclick="myFunction()">
+			<i class="fa fa-bars"></i>
+		</a>
+	</div>
+	<script>
+		function myFunction() {
+			var x = document.getElementById("nav-links");
+			if (x.style.display === "block") {
+				x.style.display = "none";
+			} else {
+				x.style.display = "block";
+			}
+		}
+	</script>
 	<div class="site-logo">
-<!--	TODO: Remove? 	-->
-<!--		<a class="logo" href="{{ site.baseurl }}/">-->
-<!--			<i class="fa fa-fw fa-random fa-rotate-270 fa-5x"></i>-->
-<!--		</a>-->
 		<div class="branding">
 			<h1 class="site-title">
 				<a href="{{ site.baseurl }}/">{{ site.theme_settings.title_short }}</a>
@@ -11,37 +33,4 @@
 			<small>Ein Blog über tolle Kinderbücher für mehr Vielfalt</small>
 		</div>
 	</div>
-	<!--	TODO: Remove? 	-->
-<!--	<nav class="site-nav">-->
-<!--		<ul class="site-nav-left">-->
-<!--			<li>-->
-<!--				<a class="page-link" href="{{site.baseurl}}/link1.html">Link 1</a>-->
-<!--			</li>-->
-<!--			<li>-->
-<!--				<a class="page-link" href="{{site.baseurl}}/link2.html">Link 2</a>-->
-<!--			</li>-->
-<!--			<li class="site-nav-search">-->
-<!--				<a class="page-link" href="{{ site.baseurl }}/search.html" title="Blog durchsuchen">-->
-<!--					<i class="fa fa-search"></i>-->
-<!--				</a>-->
-<!--			</li>-->
-<!--		</ul>-->
-		<!--	TODO: Remove? 	-->
-		<!--		<ul class="site-nav-right">-->
-		<!--			{% if site.theme_settings.email_address %}-->
-		<!--			<li>-->
-		<!--				<a class="type" href="mailto:{{ site.theme_settings.email_address }}" title="Schreib mir eine E-Mail" target="_blank">-->
-		<!--					<i class="fa fa-envelope-o"></i>-->
-		<!--				</a>-->
-		<!--			</li>-->
-		<!--			{% endif %}-->
-		<!--			{% if site.theme_settings.rss %}-->
-		<!--			<li>-->
-		<!--				<a href="{{ '/feed.xml' | relative_url }}" title="RSS Feed abonnieren">-->
-		<!--					<i class="fa fa-rss"></i>-->
-		<!--				</a>-->
-		<!--			</li>-->
-		<!--			{% endif %}-->
-		<!--		</ul>-->
-<!--	</nav>-->
 </header>
