@@ -19,8 +19,8 @@ copyright="FISCHER Sauerländer"
 image="buecher/wild.jpg"
 %}
 
-Ein etwas anderes Kinderbuch, wunderschön illustriert und geschrieben von Emily
-Hughes, das zeigt, dass Wildheit nicht unbedingt gezähmt werden muss.
+Ein etwas anderes Kinderbuch, das zeigt, dass Wildheit nicht unbedingt gezähmt werden muss.
+Wunderschön illustriert und geschrieben von Emily Hughes.
 
 [Emily Hughes – Wild](https://www.fischerverlage.de/buch/emily-hughes-emily-hughes-wild-9783737351218){:target="\_blank"}
 
@@ -52,24 +52,25 @@ copyright="FISCHER Sauerländer"
 image="buecher/wild_1.jpg"
 %}
 
+Emily Hughes' Buch macht in einer beeindruckenden Leichtigkeit – wundervolle
+Bildsprache, verknüpft mit kurzen Sätzen – darauf aufmerksam, wie wichtig
+Selbstbestimmung für ein glückliches Leben ist. Das gilt auch und
+insbesondere für (unsere) Kinder.
+
 Es heißt, [Adultismus](https://www.vielfalt-mediathek.de/adultismus-elementarpaedagogik){:target="\_blank"}
 sei die erste Form der Diskriminierung, die Kinder erleben. Das ungleiche
 Machtverhältnis zwischen Erwachsenen und Kindern sorgt oft dafür, dass Meinungen
 und Ansichten von Kindern übergangen werden, da die Erwachsenen vermeintlich
 kompetenter für die Kinder entscheiden können als die Kinder selbst.
 Adultismus kann dazu führen, dass Kinder Machtgefälle von Anfang als *normal*
-erleben – und somit eventuell auch andere Formen von Diskriminierung als nicht
-kritisch einstufen.
+erleben – und somit eventuell auch andere Formen von Diskriminierung als
+*natürlich* einstufen.
 
 Für uns als Eltern / Erwachsene ist es also wichtig, regelmäßig unseren Umgang
 mit Kindern zu reflektieren, um ihnen Selbstbestimmung und Mitentscheidung zu
 ermöglichen, aber natürlich ohne ihren Schutz zu gefährden. Und ja, das kann ein
-ganz schön schwieriger Spagat sein.
-
-Umso beeindruckender in welcher Leichtigkeit – wundervolle Bildsprache,
-verknüpft mit kurzen Sätzen – Emily Hughes' Buch darauf aufmerksam, wie wichtig
-Selbstbestimmung für ein glückliches Leben ist. Und das gilt auch und
-insbesondere für (unsere) Kinder.
+ganz schön schwieriger Spagat sein. Aber vielleicht erinnern uns Bücher wie
+dieses an die Wichtigkeit dieses Spagats.
 
 ### Details zum Buch
 
