@@ -5,7 +5,7 @@ permalink: /kinderbuch-der-beste-babysitter-bin-ich-johanna-von-horn
 tags:
 - Ab 5 Jahre
 - Regenbogenfamilie
-- Vielfalt
+- Rollenklischees
 image: buecher/der_beste_babysitter_bin_ich.jpg
 excerpt: "<p>Ein Kinderbuch von Johanna von Horn mit Illustrationen von
 Charlotte Ramel über einen kleinen übermotivierten Babysitter.</p>"
