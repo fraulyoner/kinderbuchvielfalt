@@ -4,20 +4,25 @@ title: Kinderbuchempfehlung – Der beste Babysitter bin ich!
 permalink: /kinderbuch-der-beste-babysitter-bin-ich
 tags:
 - Ab 5 Jahre
+- Regenbogenfamilie
 - Vielfalt
 image: buecher/der_beste_babysitter_bin_ich.jpg
+excerpt: "<p>Ein Kinderbuch von Johanna von Horn mit Illustrationen von
+Charlotte Ramel über einen kleinen übermotivierten Babysitter.</p>"
 ---
-
-Ein Kinderbuch von Johanna von Horn mit Illustrationen
-von Charlotte Ramel über einen kleinen übermotivierten Babysitter.
 
 {% include image_with_link.html
 class="img-right"
 description="Kinderbuch: Der beste Babysitter bin ich! – Johanna von Horn, mit Illustrationen von Charlotte Ramel, übersetzt aus dem Schwedischen von Maike Dörries"
 link="https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html"
-linkText="Link zum Buch"
+copyright="Verlagsgruppe BELTZ"
 image="buecher/der_beste_babysitter_bin_ich.jpg"
 %}
+
+Ein Kinderbuch von Johanna von Horn mit Illustrationen
+von Charlotte Ramel über einen kleinen übermotivierten Babysitter:
+
+[Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
 
 Auf charmante Art und Weise eines fünfjährigen Kindes nimmt uns der/die
 Protagonist:in dieses Buches (das Geschlecht bleibt unbekannt) mit in Alltag und
@@ -35,6 +40,13 @@ nebensächlich mit lauter Klischees und Stereotypen gebrochen wird – und das o
 jedes Aufsehen. Auch andere Lebensrealitäten werden in einer nebensächlichen
 Selbstverständlichkeit dargestellt, statt mit dem literarischen Scheinwerfer
 ausgeleuchtet.
+
+{% include image_with_copyright.html
+class="img-right"
+description="Kinderbuch: Der beste Babysitter bin ich! – Johanna von Horn, mit Illustrationen von Charlotte Ramel, übersetzt aus dem Schwedischen von Maike Dörries"
+copyright="Verlagsgruppe BELTZ"
+image="buecher/der_beste_babysitter_bin_ich_1.jpg"
+%}
 
 Um einige dieser kleinen Nebensächlichkeiten zu nennen:
 
