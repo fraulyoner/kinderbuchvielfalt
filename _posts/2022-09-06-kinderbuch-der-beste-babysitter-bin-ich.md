@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kinderbuchempfehlung – Der beste Babysitter bin ich!
+title: Johanna von Horn – Der beste Babysitter bin ich!
 permalink: /kinderbuch-der-beste-babysitter-bin-ich
 tags:
 - Ab 5 Jahre
@@ -22,7 +22,10 @@ image="buecher/der_beste_babysitter_bin_ich.jpg"
 Ein Kinderbuch von Johanna von Horn mit Illustrationen
 von Charlotte Ramel über einen kleinen übermotivierten Babysitter:
 
-[Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
+[Johanna von Horn – Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
+
+> »Ich klingele jeden Tag bei Bruno und seinen Mamas und frage, ob sie Hilfe
+brauchen. Bis jetzt brauchten sie mich immer.«
 
 Auf charmante Art und Weise eines fünfjährigen Kindes nimmt uns der/die
 Protagonist:in dieses Buches (das Geschlecht bleibt unbekannt) mit in Alltag und
@@ -66,14 +69,15 @@ illustrierten Szenen haben für manchen Lacher gesorgt.
 
 ### Details zum Buch
 
-[Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
+[Johanna von Horn – Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
 
-Johanna von Horn\\
-Übersetzt aus dem Schwedischen von Maike Dörries\\
-Mit Illustrationen von Charlotte Ramel
+Geschrieben von: Johanna von Horn\\
+Übersetzt von: Maike Dörries\\
+Illustriert von: Charlotte Ramel
 
-Vierfarbiges Bilderbuch, gebunden\\
-29 Seiten\\
-ISBN: 978-3-407-75839-2\\
-Erschienen: 10.02.2021\\
-Ab 5 Jahre
+Verlag: Verlagsgruppe BELTZ\\
+Erscheinungstermin: 10.02.2021\\
+Seitenzahl: 29 Seiten\\
+ISBN: 978-3-407-75839-2
+
+Empfohlenes Alter: Ab 5 Jahre
