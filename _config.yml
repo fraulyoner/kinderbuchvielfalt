@@ -4,10 +4,10 @@ url: "https://www.kinderbuchvielfalt.de"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: kinderbuchvielfalt.de | Kinderbücher für mehr Vielfalt und weniger Stereotype
+  title: kinderbuchvielfalt.de | Tolle Kinderbücher für mehr Vielfalt
   title_short: kinderbuchvielfalt.de
   favicon: assets/favicon.ico
-  description: "Der Blog für Kinderbücher für mehr Vielfalt und weniger Stereotype" #used by search engines
+  description: "Der Blog für die etwas anderen Kinderbücher | Mehr Vielfalt und weniger Stereotype | Außergewöhnlich statt Mainstream | Lernen und Spaß haben" #used by search engines
   image: "assets/img/logo.jpg"
 
   # Header text
