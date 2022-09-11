@@ -54,8 +54,8 @@ in ihr Buch vertieft ist, nicht gleichgültig, aber eben gedanklich immer ein
 bisschen abwesend.
 
 Wie sich nach und nach weitere Bandmitglieder an Pokkos Musikzug anschließen,
-erinnert mich ein wenig an den Song [»Geh mit uns« von Moop Mama](https://www.youtube.com/watch?v=gMa3J8hWSPc){:target="\_blank"},
-was beim Lesen zu einem netten Ohrwurm führen kann. Meine absolute
+erinnert mich ein wenig an den Song [»Geh mit uns« von Moop Mama](https://www.youtube.com/watch?v=gMa3J8hWSPc){:target="\_blank"}.
+Meine absolute
 Lieblingsstelle in der Geschichte ist übrigens, als der Wolf plötzlich den Hasen
 frisst, und deshalb fast aus der Band geworfen wird. Nachdem er gelobt, so etwas
 nicht mehr zu tun, darf er dann doch bleiben.
