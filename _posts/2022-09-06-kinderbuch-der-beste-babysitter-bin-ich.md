@@ -63,9 +63,9 @@ eine rosa Schleife im Haar.
 * Der Alltag mit Baby wird realitätsnah in wunderbar sympathischen Szenen von
 chaotischen Wohnzimmern und Babybrei-Flecken dargestellt.
 
-Alles in allem ist das also genau die Art von Kinderbuch, die ich mag. Und auch
-unserer Fünfjährigen hat es beim Vorlesen gut gefallen und die liebevoll
-illustrierten Szenen haben für manchen Lacher gesorgt.
+Alles in allem also genau die Art Kinderbuch, die ich mag. Und auch
+der Fünfjährigen hat es beim Vorlesen sehr gut gefallen und die liebevoll
+illustrierten Szenen für so manchen Lacher gesorgt.
 
 ### Details zum Buch
 
