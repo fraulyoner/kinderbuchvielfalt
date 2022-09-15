@@ -1,8 +1,14 @@
 <p class="{{ include.class }}">
-<a href="{{ include.link }}" target="_blank">
-  <img src="{{site.baseurl}}/assets/img/posts/{{ include.image }}" alt="{{ include.description }}"/>
-</a>
-<span class="caption" style="text-align: center">
-  © {{ include.copyright }}
-</span>
+	{% if include.link %}
+	<a href="{{ include.link }}" target="_blank">
+		<img src="{{site.baseurl}}/assets/img/posts/{{ include.image }}" alt="{{ include.description }}"/>
+	</a>
+	{% else %}
+	<a href="{{site.baseurl}}/assets/img/posts/{{ include.image }}" target="_blank">
+		<img src="{{site.baseurl}}/assets/img/posts/{{ include.image }}" alt="{{ include.description }}"/>
+	</a>
+	{% endif %}
+	<span class="caption" style="text-align: center">
+		© {{ include.copyright }}
+	</span>
 </p>

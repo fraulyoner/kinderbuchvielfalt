@@ -44,7 +44,7 @@ jedes Aufsehen. Auch andere Lebensrealitäten werden in einer nebensächlichen
 Selbstverständlichkeit dargestellt, statt mit dem literarischen Scheinwerfer
 ausgeleuchtet.
 
-{% include image_with_copyright.html
+{% include image_with_link.html
 class="img-right"
 description="Kinderbuch: Der beste Babysitter bin ich! – Johanna von Horn, mit Illustrationen von Charlotte Ramel, übersetzt aus dem Schwedischen von Maike Dörries"
 copyright="Verlagsgruppe BELTZ"

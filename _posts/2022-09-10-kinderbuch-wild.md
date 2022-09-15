@@ -45,7 +45,7 @@ voller liebevoller Details. Den Vergleich zu
 [Wo die wilden Kerle wohnen](https://www.diogenes.ch/leser/titel/maurice-sendak/wo-die-wilden-kerle-wohnen-9783257005134.html){:target="\_blank"}
 kann ich stilistisch auf jeden Fall gut nachvollziehen.
 
-{% include image_with_copyright.html
+{% include image_with_link.html
 class="img-right"
 description="Kinderbuch: Wild – geschrieben und illustriert von Emily Hughes"
 copyright="FISCHER Sauerländer"
