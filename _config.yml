@@ -6,9 +6,7 @@ theme_settings:
   # Meta
   title: kinderbuchvielfalt.de | Tolle Kinderbücher für mehr Vielfalt
   title_short: kinderbuchvielfalt.de
-  favicon: assets/favicon.ico
   description: "Der Blog für die etwas anderen Kinderbücher | Mehr Vielfalt und weniger Stereotype | Außergewöhnlich statt Mainstream | Lernen und Spaß haben" #used by search engines
-  image: "assets/img/logo.jpg"
 
   # Header text
   header_text:
