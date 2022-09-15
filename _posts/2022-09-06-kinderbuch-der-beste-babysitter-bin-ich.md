@@ -20,12 +20,13 @@ image="buecher/der_beste_babysitter_bin_ich.jpg"
 %}
 
 Ein Kinderbuch von Johanna von Horn mit Illustrationen
-von Charlotte Ramel über einen kleinen übermotivierten Babysitter:
+von Charlotte Ramel über einen kleinen übermotivierten Babysitter.
 
 [Johanna von Horn – Der beste Babysitter bin ich!](https://www.beltz.de/kinderbuch_jugendbuch/produkte/details/45214-der-beste-babysitter-bin-ich.html){:target="\_blank"}
 
 > »Ich klingele jeden Tag bei Bruno und seinen Mamas und frage, ob sie Hilfe
-brauchen. Bis jetzt brauchten sie mich immer.«
+brauchen. Bis jetzt brauchten sie mich immer.«\\
+> – <small>aus »Der beste Babysitter bin ich!« von Johanna von Horn</small>
 
 Auf charmante Art und Weise eines fünfjährigen Kindes nimmt uns der/die
 Protagonist:in dieses Buches (das Geschlecht bleibt unbekannt) mit in Alltag und

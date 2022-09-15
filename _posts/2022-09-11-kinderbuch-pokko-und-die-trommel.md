@@ -25,7 +25,8 @@ Trommel – geschrieben und wundervoll illustriert von Matthew Forsythe.
 [Matthew Forsythe – Pokko und die Trommel](http://www.rotopolpress.de/produkte/pokko-und-die-trommel){:target="\_blank"}
 
 > »Die Trommel war ein großer Fehler«, sagte ihr Vater.
-> »Das klingt nach einer wundervollen Idee«, sagte ihre Mutter, die noch immer nicht hören konnte, was er sagte.
+> »Das klingt nach einer wundervollen Idee«, sagte ihre Mutter, die noch immer nicht hören konnte, was er sagte.\\
+> – <small>aus »Pokko und die Trommel« von Matthew Forsythe</small>
 
 Pokkos Eltern sind schon einige Fehler unterlaufen. Doch Pokko eine Trommel zu
 schenken, war wohl ihr allergrößter Fehler. Um ein wenig Ruhe zu haben, wird

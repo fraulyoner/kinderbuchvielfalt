@@ -25,7 +25,8 @@ Wunderschön illustriert und geschrieben von Emily Hughes.
 [Emily Hughes – Wild](https://www.fischerverlage.de/buch/emily-hughes-emily-hughes-wild-9783737351218){:target="\_blank"}
 
 > »Niemand erinnerte sich, wie sie in den Wald gekommen war, aber alle wussten:
-Es war gut, dass sie da war.«
+> Es war gut, dass sie da war.«\\
+> – <small>aus »Wild« von Emily Hughes</small>
 
 Die kleine Protagnostin des wunderschön illustrierten Bilderbuches von Emily
 Hughes wächst im Wald auf und wird von den dort lebenden Tieren in allem
