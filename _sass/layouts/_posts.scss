@@ -65,7 +65,7 @@ header {
 }
 
 .meta .tag {
-  text-transform: capitalize;
+  text-transform: none;
 }
 
 .caption {
@@ -75,7 +75,7 @@ header {
 }
 
 .feature-image {
-  padding: 0%;
+  padding: 0;
   .post-link {
     color: $feature-image-text-color;
   }
