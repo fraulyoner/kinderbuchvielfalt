@@ -4,8 +4,8 @@ title: Matthew Forsythe – Pokko und die Trommel
 permalink: /kinderbuch-pokko-und-die-trommel-matthew-forsythe
 tags:
 - Ab 4 Jahre
-- Rollenklischees
-- Selbstbestimmt
+- Gegen Rollenklischees
+- Starke Mädchen
 image: buecher/pokko_und_die_trommel.jpg
 excerpt: "<p>Eine amüsante Geschichte über eine Familie von Fröschen – und eine
 Trommel – geschrieben und wundervoll illustriert von Matthew Forsythe.</p>"

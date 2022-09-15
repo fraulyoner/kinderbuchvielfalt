@@ -4,7 +4,7 @@ title: Emily Hughes – Wild
 permalink: /kinderbuch-wild-emily-hughes
 tags:
 - Ab 4 Jahre
-- Selbstbestimmt
+- Starke Mädchen
 image: buecher/wild.jpg
 excerpt: "<p>Ein etwas anderes Kinderbuch, wunderschön illustriert und
 geschrieben von Emily Hughes, über glückliche Wildheit, die nicht gezähmt werden
