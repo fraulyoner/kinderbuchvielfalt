@@ -32,7 +32,7 @@ theme_settings:
   related_posts_minCommon: 1
 
 # PAGINATION
-paginate: 3
+paginate: 10
 paginate_path: "blog/page:num"
 
 # BUILD SETTINGS
